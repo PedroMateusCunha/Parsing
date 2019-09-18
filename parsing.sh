@@ -5,7 +5,7 @@ then
 	echo "#######################"
 	echo "#  Analisador de URL  #"
 	echo "#######################"	
-	echo "Modo de uso: ./par.sh <url> "
+	echo "Modo de uso: ./parsing.sh <url> "
 	echo "By: Pedro Cunha"
 else
 	wget -q  $1
